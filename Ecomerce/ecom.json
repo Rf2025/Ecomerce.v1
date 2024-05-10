@@ -1,0 +1,90 @@
+{
+   "products" : [
+    {
+        "id" : 1,
+        "title" : "RV6 Retro Flywheel",
+       "image" : "/Links/rv6Flywheel.webp",
+       "description": "Looking for a factory feeling clutch that can hold real power? Check out the RV6 1.5T FK8 Clutch Retro Flywheel. This flywheel allows you to run a 17+ Civic Type R (FK8) clutch disc and pressure plate in your 1.5T Si or any 1.5T manual equipped car. With factory FK8 clutches holding over 400FT/LB of torque and available at any dealer, the RV6 1.5T FK8 Clutch Retro Flywheel 42% lighter than stock. (Actual weight 20.5lbs)",
+       "price" :  "$579.00 USD"
+    },
+    {
+        
+        "id" : 2,
+        "title" : "Rv6 Turbo Upgrade",
+       "image" : "/Links/rv6Turbo.webp",
+       "description": "The rv6 r365 turbo has a power curve and characteristics of a ball bearing gtx2860 gen 2 turbocharger. we tested several turbine and compressor wheel combinations and found this setup to be the most practical. it is able to max out the factory fuel system without running at inefficient boost levels which tend to shake turbochargers apart.",
+       "price" :  "$1,249.00 USD"
+    },{
+
+        "id" : 3,
+        "title" : "Ktuner V2",
+       "image" : "/Links/ktuneV2.avif",
+       "description": "KTuner allows the ability to properly tune ignition, fuel, cam angle, and additional supporting parameters required to meet emissions standards. Paired with essential datalogging parameters at high speeds, KTuner can be utilized to test and develop multiple vehicle platforms in the development of emissions legal aftermarket performance products",
+       "price" :  "$649.00 USD"
+    },{
+
+        "id" : 4,
+        "title" : "27won turbo",
+       "image" : "/Links/27turbo.jpeg",
+       "description": "The W2 turbocharger takes the proven performance of the W1 turbocharger system and brings it to another level. The W2 is capable of hitting power figures over 375+WHP and beyond. This is a turbo you can grow with. Whether it's bolted onto a stock block or a freshly built engine with beefed-up internals you can have the confidence that the W2 turbo kit will give you the performance you want and need.",
+       "price" :  "$1,692.71"
+    },{
+        "id" : 5,
+        "title" : "TSP R365 / W2 Tune",
+       "image" : "/Links/rv6tune1.webp",
+       "description": "Two Step Performance & Derek at Innovative MotorWorks present the TSP R365 Tune, designed for use with the RV6 R365 Drop In Turbocharger and the 2017-2020 Honda Civic Si. This tune also works without any modifications for the 27WON W2 Turbocharger the power outputs are 300whp / 300 ft lbs tq - 93 Octane,350whp / 350 ft lbs tq - E30 Ethanol Blend",
+       "price" :  "$249.99"
+    },
+    {
+
+        "id" : 6,
+        "title" : "27Won cold air intake",
+       "image" :"/Links/27cold.webp",
+       "description": "Our unique airbox design pulls cool ambient air from the fender well just like a typical CAI system, but without all the negatives of locating the air filter in the fender well. No more worrying about hydro-locking or tedious filter maintenance",
+       "price" :  "$392.71"
+    },{
+
+        "id" : 7,
+        "title" : "Built L15B7 Shortblock 1.5L Civic",
+       "image" : "/Links/block.webp",
+       "description": "This shortblock is built for up to 600whp (see details below) but we expect it would hold much more. There have never been any reported failures.",
+       "price" :  "$4,449.99"
+    },{
+
+        "id" : 8,
+        "title" : "Hondata 1.5 Turbo Denso Fuel System",
+       "image" : "/Links/upgrade2.webp",
+       "description": "The Hondata fuel system for the Honda L15B turbo 10th Gen Civic Si (2017-2021) consists of hardware and FlashPro Manager Software components designed to deliver significantly more fuel flow over stock (35% Injector, 39% cam/pump combo). This system enables your 1.5L turbo Honda Civic Si to take the next logical step for a reliable, well engineered and thoroughly tested fuel delivery solution,Hondata has tested this system for a 300 hp increase over stock to well over 500 hp. Make your 1.5 Civic a Type R beater!",
+       "price" :  "$2,600.00"
+    },{
+        "id" : 9,
+        "title" : "Civic 1.5T WiFi Ethanol Content Analyzer / Flex Fuel Kit",
+       "image" : "/Links/flex.webp",
+       "description": "The PRL Motorsports Plug ‘n Play WiFi Flex-Fuel / Ethanol Content Analyzer Kit allows customers to wirelessly monitor ethanol content via any smart device or enable flex fuel via an optional 0.5-4.5V configurable output with a tuning device. Our innovative Patent Pending design utilizes the factory fuel line, which eliminates the chance for alternative fuel line deterioration and improves aesthetics.",
+       "price" :  "$549.99"
+    },
+    {
+
+        "id" : 10,
+        "title" : "Stage 1+ tune",
+       "image" : "/Links/stage1.webp",
+       "description": "Two Step Performance continues to partner with Derek Robinson to offer an even more powerful tune for the 2017+ Si, the tune delivers 248whp / 290tq,All testing was completed on a stock 2020 Civic Si running 93 octane fuel.",
+       "price" :  "$149.99"
+    },{
+
+        "id" : 11,
+        "title" : "ESCO-T6 Shift Knob",
+       "image" : "/Links/knob2.webp",
+       "description": "The ESCO-T6 weighs in at approximately 185 grams. The mid-weight is meant to provide enough mass to provide a good shift feel without masking feedback from the gearbox. To compliment the ergonomic shape, each knob is anodized in a durable satin red anodized finish and laser engraved with the 6-Speed Honda/Acura gear pattern. ",
+       "price" :  "$75.00"
+    },{
+
+        "id" : 12,
+        "title" : "Honda L15 Turbo Head Stud Kit for 2016+ 1.5T Engine",
+       "image" : "/Links/headbolts.webp",
+       "description": "After years of waiting, a proper head stud kit is now available for the L15 1.5L turbocharged engine found in many 2016+ Honda vehicles. No more stacked washers, no more giant spacers. ",
+       "price" :  "$349.99"
+    }
+   ]
+}
+
